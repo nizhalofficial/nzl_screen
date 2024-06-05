@@ -1,0 +1,29 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #282c34;
+    color: white;
+}
+
+#app {
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #61dafb;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
